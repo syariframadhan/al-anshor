@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 15 Nov 2020 pada 12.19
+-- Waktu pembuatan: 12 Nov 2022 pada 02.18
 -- Versi server: 10.4.11-MariaDB
 -- Versi PHP: 7.4.1
 
@@ -252,7 +252,7 @@ CREATE TABLE `tbsiswa` (
 --
 
 INSERT INTO `tbsiswa` (`nis`, `nisn`, `nama_siswa`, `nama_panggilan_siswa`, `tempat_lahir_siswa`, `tanggal_lahir_siswa`, `jenis_kelamin_siswa`, `nama_ayah`, `nama_ibu`, `alamat_siswa`, `kode_kelas`, `foto`) VALUES
-(567, '12345', 'Dita Lestari Muslimah', 'Dita', ' Jakarta', '1991-02-08', 'Perempuan', 'Adi', 'Yati', 'Cirimekar, Cibinong', '1', 'default.jpg'),
+(0, '34546t46', 'retgdety', 'ertret', 'ertetre', '2021-04-16', 'Laki-laki', 'ertert', 'ertret', 'ertret', '1', 'asdadasdadas.JPG'),
 (2323, '12323', 'Syahrul Rizal', 'Syahrul', ' Jakarta', '2000-01-05', 'Laki-laki', 'Adi', 'Yati', 'Pasar Rebo, Jakarta', '1', 'default.jpg'),
 (4574, '1232133', 'Mutiara Bayangkari', '12', '  123', '2020-11-05', 'Laki-laki', '123asdasd', '213', '123', '2', '36148386_235329013928908_5587443012587225088_n.jpg'),
 (5001, '1004', 'Muhammad Fahrial Ababil', 'Fahrial Awe Awe', '        Bogor', '2020-11-06', 'Laki-laki', 'Susanto', 'Sri Haryanti', 'Lingkungan 02 Citatah Dalam 001/013 Ciriung Cibinong Bogor', '3', 'default.jpg'),
